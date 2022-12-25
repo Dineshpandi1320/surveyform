@@ -1,0 +1,57 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16px;
+    margin: 0px;
+    padding: 0px;
+    background-color: aqua;
+    color:black;
+}
+#title{
+    background-color: aqua;
+    color: black;
+    text-align: center;
+    width: 100px;
+    margin: auto;
+}
+#description{
+    text-align: center;
+}
+
+
+.container{
+    width: 50%;
+    margin: auto;
+    background-color: antiquewhite;
+    color: black;
+    padding: 15px;
+}
+#survey-from{
+    text-align: center;
+
+}
+.row-tab{
+    display: block;
+    padding-bottom: 20px;
+
+}
+.label-tab{
+    display: inline-block;
+    width: 44%;
+    text-align: right;
+    vertical-align: top;
+}
+.input-tab{
+    display: inline-block;
+    width: 54%;
+    text-align: left;
+}
+
+.select-tab{
+    display: inline-block;
+    width: 54%;
+    text-align: left;
+}
+
+.select-box{
+    padding: 5px 0px;
+}
